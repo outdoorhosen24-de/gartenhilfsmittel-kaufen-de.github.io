@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/obi", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-arbeitshandschuh-groesze-10-obi-7314172-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-arbeitshandschuh-groesze-10-obi-7314172-1.webp"}}],fetch:{},mutations:void 0});
