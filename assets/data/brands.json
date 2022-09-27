@@ -1,17 +1,17 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "swissinno",
+        "name": "Swissinno",
+        "slug": "swissinno",
+        "productCategory": "Swissinno",
+        "localThumb": "/assets/images/hersteller/swissinno.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "proflora",
+        "name": "Proflora",
+        "slug": "proflora",
+        "productCategory": "Proflora",
+        "localThumb": "/assets/images/hersteller/proflora.webp"
     },
     {
         "key": "sonstige",
@@ -21,11 +21,60 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "gardigo",
+        "name": "Gardigo",
+        "slug": "gardigo",
+        "productCategory": "Gardigo",
+        "localThumb": "/assets/images/hersteller/gardigo.webp"
+    },
+    {
+        "key": "elho",
+        "name": "Elho",
+        "slug": "elho",
+        "productCategory": "Elho",
+        "localThumb": "/assets/images/hersteller/elho.webp"
+    },
+    {
+        "key": "laserliner",
+        "name": "Laserliner",
+        "slug": "laserliner",
+        "productCategory": "Laserliner",
+        "localThumb": "/assets/images/hersteller/laserliner.webp"
+    },
+    {
+        "key": "gardena",
+        "name": "Gardena",
+        "slug": "gardena",
+        "productCategory": "Gardena",
+        "localThumb": "/assets/images/hersteller/gardena.webp"
+    },
+    {
+        "key": "scheppach",
+        "name": "Scheppach",
+        "slug": "scheppach",
+        "productCategory": "Scheppach",
+        "localThumb": "/assets/images/hersteller/scheppach.webp"
+    },
+    {
+        "key": "noor",
+        "name": "Noor",
+        "slug": "noor",
+        "productCategory": "Noor",
+        "localThumb": "/assets/images/hersteller/noor.webp"
+    },
+    {
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
+    },
+    {
+        "key": "bwo",
+        "name": "BWO",
+        "slug": "bwo",
+        "productCategory": "BWO",
+        "localThumb": "/assets/images/hersteller/bwo.webp"
     },
     {
         "key": "obi",
@@ -35,52 +84,17 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "romberg",
+        "name": "Romberg",
+        "slug": "romberg",
+        "productCategory": "Romberg",
+        "localThumb": "/assets/images/hersteller/romberg.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
-    },
-    {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
-    },
-    {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
-    },
-    {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
-    },
-    {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
-    },
-    {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "poétic",
+        "name": "Poétic",
+        "slug": "poetic",
+        "productCategory": "Poétic",
+        "localThumb": "/assets/images/hersteller/poetic.webp"
     }
 ]
