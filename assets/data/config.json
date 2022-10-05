@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenhilfsmittel-kaufen.de",
+    "hostname": "https://www.gartenhilfsmittel-kaufen.de/",
+    "email": "gartenhilfsmittel-kaufen.desurrealnetworks.io",
+    "organization": "gartenhilfsmittel-kaufen.de",
+    "logoText": "Gartenhilfsmittel-kaufen.de",
+    "title": "Gartenhilfsmittel",
+    "subline": "Der Online Shop f\u00fcr Gartenhilfsmittel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "3471851",
+        "3471851",
+        "3152774",
+        "5190905",
+        "5191226",
+        "5191127"
+    ],
+    "winnerProducts": [
+        "3928272",
+        "2205219",
+        "1856970"
+    ],
+    "featuredCategories": [
+        "Gartenbekleidung",
+        "Gartenbekleidung",
+        "Gartenbekleidung",
+        "Thermometer & Messinstrumente",
+        "Thermometer & Messinstrumente",
+        "Thermometer & Messinstrumente"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenhilfsmittel",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Gartenhilfsmittel sind ein wesentlicher Bestandteil des t\u00e4glichen Gebrauchs. Sie sind in der Regel sehr hilfreich bei der Arbeit im Garten. Die meisten Gartenhilfsmittel sind jedoch sehr teuer.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenhilfsmittel - Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenhilfsmittel f\u00fcr diejenigen, die ihren Garten in Schuss halten wollen. Alles, vom Rasenm\u00e4her bis zur Gartenschere.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenhilfsmittel: Werkzeuge, Pflanzen, D\u00fcnger & mehr",
+                    "text": "Gartenhilfsmittel sind unerl\u00e4sslich, wenn es darum geht, unseren Garten in Schuss zu halten. Ob es nun darum geht, Unkraut zu j\u00e4ten, die Beete zu mulchen oder die B\u00e4ume zu schneiden - mit den richtigen Gartenhilfsmitteln ist alles m\u00f6glich.\n\nDoch welche Gartenhilfsmittel sind nun wirklich unerl\u00e4sslich? Nat\u00fcrlich kommt es hier ganz darauf an, was f\u00fcr einen Garten man hat und welche Pflanzen darin wachsen. Grunds\u00e4tzlich sollte man jedoch einige Gartenhilfsmittel zur Hand haben, um die verschiedenen Arbeiten im Garten problemlos erledigen zu k\u00f6nnen.\n\nEin Gartenschlauch ist zum Beispiel unerl\u00e4sslich, wenn man seine Pflanzen regelm\u00e4\u00dfig gie\u00dfen m\u00f6chte. Auch eine Harke ist ein n\u00fctzliches Gartenhilfsmittel, um Unkraut zu j\u00e4ten oder die Beete umzugraben.\n\nWer einen Rasen hat, sollte au\u00dferdem \u00fcber einen Rasenm\u00e4her sowie einen Rasenschneider verf\u00fcgen. So kann man den Rasen ganz einfach in Form bringen und ihn vor dem Austrocknen sch\u00fctzen.\n\nAuch ein Laubbl\u00e4ser kann im Herbst sehr n\u00fctzlich sein, um das Laub von den B\u00e4umen zu entfernen. So bleibt der Garten sauber und aufger\u00e4umt.\n\nMit den richtigen Gartenhilfsmitteln ist man also bestens ausgestattet, um den eigenen Garten in Schuss zu halten."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenhilfsmittel-Shop: Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenhilfsmittel Shop - Alles f\u00fcr Ihren Garten. Schnelle Lieferung, gro\u00dfe Auswahl, g\u00fcnstige Preise.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenhilfsmittel-Hersteller",
+            "metaDescription": "Gartenhilfsmittel-Hersteller bietet eine gro\u00dfe Auswahl an hochwertigen Gartenger\u00e4ten f\u00fcr jeden Bedarf. Kostenloser Versand ab 50\u20ac.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Gartenhilfsmittel f\u00fcr einfaches G\u00e4rtnern",
+        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gartenhilfsmittel f\u00fcr die einfache und schnelle $KATEGORIE. Jetzt online bestellen!",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Gartenhilfsmittel f\u00fcr die perfekte Gartenpflege",
+        "defaultMetaDescription": "Gartenhilfsmittel f\u00fcr jeden Zweck: $KATEGORIE von A-Z. Jetzt st\u00f6bern und die besten Gartenhilfsmittel finden!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gartenhilfsmitteln. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Gartenhilfsmitteln, die Ihnen dabei helfen, Ihren Garten in Top-Form zu halten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenhilfsmittel",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenhilfsmittel Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenhilfsmittel Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
