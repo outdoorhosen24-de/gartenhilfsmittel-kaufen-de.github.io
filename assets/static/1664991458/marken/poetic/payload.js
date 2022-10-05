@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/poetic", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/poetic-city-pflanzenschlaufen-6er-set-gruen-poetic-1705532-1.jpg":"\u002Fassets\u002Fimages\u002Fpoetic-city-pflanzenschlaufen-6er-set-gruen-poetic-1705532-1.webp"}}],fetch:{},mutations:void 0});

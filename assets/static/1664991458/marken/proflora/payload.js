@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/proflora", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/baumbindeband-aus-kokosfaser-50-m-lang-ca-10-mm-stark-3-fach-gewickelt-proflora-1321330-1.jpg":"\u002Fassets\u002Fimages\u002Fbaumbindeband-aus-kokosfaser-50-m-lang-ca-10-mm-stark-3-fach-gewickelt-proflora-1321330-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/romberg", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/romberg-anzuchtshaube-s-anthrazit-romberg-8702763-1.jpg":"\u002Fassets\u002Fimages\u002Fromberg-anzuchtshaube-s-anthrazit-romberg-8702763-1.webp"}}],fetch:{},mutations:void 0});

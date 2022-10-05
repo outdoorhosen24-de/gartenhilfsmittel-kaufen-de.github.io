@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/thermometer-messinstrumente", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/laserliner-thermometer-thermocontrol-air-laserliner-1907484-1.jpg":"\u002Fassets\u002Fimages\u002Flaserliner-thermometer-thermocontrol-air-laserliner-1907484-1.webp"}}],fetch:{},mutations:void 0});
