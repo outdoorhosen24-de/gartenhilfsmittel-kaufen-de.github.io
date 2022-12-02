@@ -51,12 +51,15 @@
             "title": "Gartenhilfsmittel - Alles für Ihren Garten!",
             "metaDescription": "Gartenhilfsmittel für diejenigen, die ihren Garten in Schuss halten wollen. Alles, vom Rasenmäher bis zur Gartenschere.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartenhilfsmittel: Werkzeuge, Pflanzen, Dünger & mehr",
-                    "text": "Gartenhilfsmittel sind unerlässlich, wenn es darum geht, unseren Garten in Schuss zu halten. Ob es nun darum geht, Unkraut zu jäten, die Beete zu mulchen oder die Bäume zu schneiden - mit den richtigen Gartenhilfsmitteln ist alles möglich.\n\nDoch welche Gartenhilfsmittel sind nun wirklich unerlässlich? Natürlich kommt es hier ganz darauf an, was für einen Garten man hat und welche Pflanzen darin wachsen. Grundsätzlich sollte man jedoch einige Gartenhilfsmittel zur Hand haben, um die verschiedenen Arbeiten im Garten problemlos erledigen zu können.\n\nEin Gartenschlauch ist zum Beispiel unerlässlich, wenn man seine Pflanzen regelmäßig gießen möchte. Auch eine Harke ist ein nützliches Gartenhilfsmittel, um Unkraut zu jäten oder die Beete umzugraben.\n\nWer einen Rasen hat, sollte außerdem über einen Rasenmäher sowie einen Rasenschneider verfügen. So kann man den Rasen ganz einfach in Form bringen und ihn vor dem Austrocknen schützen.\n\nAuch ein Laubbläser kann im Herbst sehr nützlich sein, um das Laub von den Bäumen zu entfernen. So bleibt der Garten sauber und aufgeräumt.\n\nMit den richtigen Gartenhilfsmitteln ist man also bestens ausgestattet, um den eigenen Garten in Schuss zu halten."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartenhilfsmittel: Werkzeuge, Pflanzen, Dünger & mehr",
+                        "text": "Gartenhilfsmittel sind unerlässlich, wenn es darum geht, unseren Garten in Schuss zu halten. Ob es nun darum geht, Unkraut zu jäten, die Beete zu mulchen oder die Bäume zu schneiden - mit den richtigen Gartenhilfsmitteln ist alles möglich.\n\nDoch welche Gartenhilfsmittel sind nun wirklich unerlässlich? Natürlich kommt es hier ganz darauf an, was für einen Garten man hat und welche Pflanzen darin wachsen. Grundsätzlich sollte man jedoch einige Gartenhilfsmittel zur Hand haben, um die verschiedenen Arbeiten im Garten problemlos erledigen zu können.\n\nEin Gartenschlauch ist zum Beispiel unerlässlich, wenn man seine Pflanzen regelmäßig gießen möchte. Auch eine Harke ist ein nützliches Gartenhilfsmittel, um Unkraut zu jäten oder die Beete umzugraben.\n\nWer einen Rasen hat, sollte außerdem über einen Rasenmäher sowie einen Rasenschneider verfügen. So kann man den Rasen ganz einfach in Form bringen und ihn vor dem Austrocknen schützen.\n\nAuch ein Laubbläser kann im Herbst sehr nützlich sein, um das Laub von den Bäumen zu entfernen. So bleibt der Garten sauber und aufgeräumt.\n\nMit den richtigen Gartenhilfsmitteln ist man also bestens ausgestattet, um den eigenen Garten in Schuss zu halten."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartenhilfsmittel-Shop: Alles für Ihren Garten!",
