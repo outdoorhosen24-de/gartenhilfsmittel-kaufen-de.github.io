@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartenhilfsmittel-kaufen.de",
     "hostname": "https://www.gartenhilfsmittel-kaufen.de/",
     "email": "gartenhilfsmittel-kaufen.de@surrealnetworks.io",
     "organization": "gartenhilfsmittel-kaufen.de",
     "logoText": "Gartenhilfsmittel-kaufen.de",
     "title": "Gartenhilfsmittel",
-    "subline": "Der Online Shop für Gartenhilfsmittel",
+    "subline": "Der Shop für Gartenhilfsmittel",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenhilfsmittel",
-        "featureText": "Die Gartenhilfsmittel sind ein wesentlicher Bestandteil des täglichen Gebrauchs. Sie sind in der Regel sehr hilfreich bei der Arbeit im Garten. Die meisten Gartenhilfsmittel sind jedoch sehr teuer.",
+        "featureText": "Schön, dass Sie auf unseren Online-Shop aufmerksam geworden sind! Wir bieten Ihnen eine riesige Auswahl an verschiedenen Gartenhilfsmitteln, die Sie bei der Gartenarbeit unterstützen und Arbeitsprozesse vereinfachen sollen. In unserem Online-Shop sind alle Produkte übersichtlich in verschiedenen Kategorien geordnet und zusammengefasst. Dies soll Ihnen die Suche nach dem passendem Produkt vereinfachen. Schauen Sie gerne vorbei und überzeugen Sie sich selbst von den tollen Angeboten.",
         "index": {
             "title": "Gartenhilfsmittel - Alles für Ihren Garten!",
-            "metaDescription": "Gartenhilfsmittel für diejenigen, die ihren Garten in Schuss halten wollen. Alles, vom Rasenmäher bis zur Gartenschere.",
+            "metaDescription": "Entdecken Sie eine Vielzahl an unterschiedlichen Produkten: Ultraschall-Tiervertreiber, Gartenbekleidung, Folien, Anzuchttische, Fässer zum Lagern uvm.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartenhilfsmittel-Shop: Alles für Ihren Garten!",
-            "metaDescription": "Gartenhilfsmittel Shop - Alles für Ihren Garten. Schnelle Lieferung, große Auswahl, günstige Preise.",
+            "title": "Gartenhilfsmittel für einen gepflegten Garten | Shop",
+            "metaDescription": "Alles für Ihren Garten. Schnelle Lieferung | Große Produktauswahl | Günstige Preise | Hochwertige Qualität | Zuverlässige Markenanbieter",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenhilfsmittel-Hersteller",
-            "metaDescription": "Gartenhilfsmittel-Hersteller bietet eine große Auswahl an hochwertigen Gartengeräten für jeden Bedarf. Kostenloser Versand ab 50€.",
+            "title": "Gartenhilfsmittel • Zuverlässige & Langlebige Produkte",
+            "metaDescription": "Besuchen Sie unseren Online Shop und entdecken Sie unsere erstklassigen Marken wie Gardena • OBI • Elho • LUX-TOOLS • Proflora uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Gartenhilfsmittel für einfaches Gärtnern",
-        "defaultMetaDescription": "$PRODUKT, $HERSTELLER - Gartenhilfsmittel für die einfache und schnelle $KATEGORIE. Jetzt online bestellen!",
+        "defaultTitle": "$PRODUKT online kaufen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - Dieses und weitere tolle Produkte online bestellen! Entdecken Sie weitere erstklassige Gartenhilfsmittel in der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gartenhilfsmittel für die perfekte Gartenpflege",
-        "defaultMetaDescription": "Gartenhilfsmittel für jeden Zweck: $KATEGORIE von A-Z. Jetzt stöbern und die besten Gartenhilfsmittel finden!",
+        "defaultTitle": "$KATEGORIE | Gartenhilfsmittel Shop",
+        "defaultMetaDescription": "Gartenhilfsmittel für jeden Zweck: $KATEGORIE von A-Z. Jetzt stöbern und die besten Gartenhilfsmittel finden! Einfach per Mausklick bestellen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Gartenhilfsmitteln. Wir bieten eine große Auswahl an hochwertigen Gartenhilfsmitteln, die Ihnen dabei helfen, Ihren Garten in Top-Form zu halten.",
+        "defaultTitle": "$HERSTELLER | Produkte günstiger bestellen",
+        "defaultMetaDescription": "$HERSTELLER: eine zuverlässige Marke mit top Produktqualität. Wir bieten eine große Auswahl an tollen Gartenhilfsmitteln, um die Gartenarbeit zu erleichtern.",
         "defaultRobots": "index, follow",
         "brands": [
             {
